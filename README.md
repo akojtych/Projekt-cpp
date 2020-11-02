@@ -1,2 +1,6 @@
-# Projekt-cpp
-Project created in C++ (2020)
+# Projekt C++
+Aplikacja dla mniejszej księgarni do obsługi z poziomu
+## Technologie
+* C++
+* QT
+* SQL 
